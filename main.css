@@ -1,5 +1,5 @@
 body{
-    background-color: #c7cdff;
+    background-color: #FFF;
 }
 
 header{
@@ -13,6 +13,12 @@ nav
 {
     display: none;
 }
+
+nav a, nav a:visited {
+    color: #0F0;
+}
+
+
 
 #botao-hamburguer
 {
